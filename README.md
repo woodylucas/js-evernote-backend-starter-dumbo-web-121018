@@ -10,6 +10,7 @@ This project uses a Rails backend as a JSON API. That means that the server will
 
 The models, controllers, and routes are already setup for you. Run the following commands to get started:
 
+- `$ cd server` to change to the server directory
 - `$ bundle install`
 - `$ rails db:migrate && rails db:seed`
 - `$ rails s`
